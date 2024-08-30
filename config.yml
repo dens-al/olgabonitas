@@ -6,8 +6,10 @@ meta:
   description: "Watercolour artist and sketchbook lover based in London"
   title: "Olga Bonitas"
   author: "Olga Bonitas"
-  siteUrl: "https://olga-bonitas.com"
+  siteUrl: "https://olgabonitas.com"
 links:
+  - name: "My web site"
+    url: "https://olga-bonitas.com"
   - name: "My courses"
     url: "https://olga-bonitas-s-school.teachable.com/"
   - name: "Youtube"
